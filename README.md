@@ -71,20 +71,20 @@ Participating in campus activities enhances your graduate experience, fosters ne
 
 Never hesitate to reach out to faculty and senior students for lab-related queries and peer support.
 
-- [ ] Join the UAB Labs slack channel.
-- [ ] Join the GBS Students GroupMe.
-- [ ] Join the GGB Theme GroupMe.
-- [ ] Join the Graduate Students GroupMe.
+- [ ] Join the [UAB Labs Slack](https://join.slack.com/t/uablabs/shared_invite/zt-211dwtcgl-d48Ws05G1v4RlIqOZsJULw) - here you can access the very active datascience channel.
+- [ ] Join the [UAB GBS Students GroupMe](https://groupme.com/join_group/86582343/fazSR8k7).
+- [ ] Join the [GGB Theme GroupMe](https://groupme.com/join_group/72088596/opdT6nbr).
+- [ ] Join the [UAB Graduate Students GroupMe](https://groupme.com/join_group/86582191/RBZhVKar).
 
 ### Student Concerns
 
 Contact program coordinators or administrators for academic or program-related issues.
 
-- [ ] Contact GSG for student concerns at their [website]().
+- Contact GSG for student concerns on their [website](https://www.uab.edu/gsg/contact-us).
+- File a [formal complaint](https://www.uab.edu/one-stop/policies/complaint-policy) through the Office of the Provost.
 
 ### Financial Hardships
 
-Explore financial aid, scholarships, and advising services for assistance.
 - UAB Blazer Kitchen
       - UAB Blazer Kitchen offers campus pantry services to all students, ensuring they have access to fresh produce, food, and essential items. The Blazer Kitchen is located at 1613 11th Ave S, Birmingham, AL 35205, and is open to students from Wednesday to Friday. Shopping appointments can be booked [online](https://uab.givepulse.com/event/336597-1613-Building-Shopper-Appointments).
 
@@ -92,21 +92,19 @@ Explore financial aid, scholarships, and advising services for assistance.
 
 Access counseling services through UAB's Student Health and Wellness Center.
 
-### Healthcare
-
-Utilize UAB's comprehensive healthcare services for medical, dental, and vision concerns.
-
 ### Research Support
 
 - UAB Research Computing
     - UAB Research Computing maintains UAB's supercomputer (Cheaha), which is available for students and researchers as a resource to boost their research productivity.
-    - To learn more about Cheaha, visit: https://docs.rc.uab.edu/
+    - To learn more about Cheaha, visit: <https://docs.rc.uab.edu/>
     - UAB research computing also provides support to the students utilizing Cheaha during their weekly [virtual office hours](https://www.uab.edu/it/home/research-computing) (Mondays and Thursdays: 10 am - Noon)
 
 - UAB Libraries Office of Scholarly Communication
-    - UAB Office of Scholarly Communications assists students with consultations and workshops and helps them navigate research communication areas including research data management guidelines, publication processes, etc. https://library.uab.edu/office-of-scholarly-communication
+    - UAB Office of Scholarly Communications assists students with consultations and workshops and helps them navigate research communication areas including research data management guidelines, publication processes, etc. <https://library.uab.edu/office-of-scholarly-communication>
 
 - CCTS BERD: One-on-one Biostatistics Design Consultation
-    - The Center for Clinical and Translational Science's BERD Team offers individual consultations to students and researchers about the study design, data management, and statistical analyses. For more information, check: https://www.uab.edu/ccts/research-commons/berd
+    - The Center for Clinical and Translational Science's BERD Team offers individual consultations to students and researchers about the study design, data management, and statistical analyses. For more information, check: <https://www.uab.edu/ccts/research-commons/berd>
 
-   
+### Other Resources
+
+- Get a document [notarized](https://www.uab.edu/one-stop/student-resources/notarization-of-documents).
