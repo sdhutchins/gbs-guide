@@ -101,12 +101,12 @@ Utilize UAB's comprehensive healthcare services for medical, dental, and vision 
 - UAB Research Computing
     - UAB Research Computing maintains UAB's supercomputer (Cheaha), which is available for students and researchers as a resource to boost their research productivity.
     - To learn more about Cheaha, visit: https://docs.rc.uab.edu/
-    - UAB research computing also provides support to the students utilizing Cheaha during their weekly [virtual office hours] https://www.uab.edu/it/home/research-computing (Mondays and Thursdays: 10 am - Noon)
+    - UAB research computing also provides support to the students utilizing Cheaha during their weekly [virtual office hours](https://www.uab.edu/it/home/research-computing) (Mondays and Thursdays: 10 am - Noon)
 
 - UAB Libraries Office of Scholarly Communication
-    UAB Office of Scholarly Communications assists students with consultations and workshops and helps them navigate research communication areas including research data management guidelines, publication processes, etc. https://library.uab.edu/office-of-scholarly-communication
+    - UAB Office of Scholarly Communications assists students with consultations and workshops and helps them navigate research communication areas including research data management guidelines, publication processes, etc. https://library.uab.edu/office-of-scholarly-communication
 
-- CCTS BERD: One-on-one Biostatistics Consultation
+- CCTS BERD: One-on-one Biostatistics Design Consultation
     - The Center for Clinical and Translational Science's BERD Team offers individual consultations to students and researchers about the study design, data management, and statistical analyses. For more information, check: https://www.uab.edu/ccts/research-commons/berd
 
    
