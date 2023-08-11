@@ -86,7 +86,7 @@ Contact program coordinators or administrators for academic or program-related i
 
 Explore financial aid, scholarships, and advising services for assistance.
 - UAB Blazer Kitchen
-      - UAB Blazer Kitchen offers campus pantry services to all students, ensuring they have access to fresh produce, food, and essential items. The Blazer Kitchen is located at 1613 11th Ave S, Birmingham, AL 35205, and is open to students from Wednesday to Friday. Shopping appointments can be booked [online] (https://uab.givepulse.com/event/336597-1613-Building-Shopper-Appointments).
+      - UAB Blazer Kitchen offers campus pantry services to all students, ensuring they have access to fresh produce, food, and essential items. The Blazer Kitchen is located at 1613 11th Ave S, Birmingham, AL 35205, and is open to students from Wednesday to Friday. Shopping appointments can be booked [online](https://uab.givepulse.com/event/336597-1613-Building-Shopper-Appointments).
 
 ### Mental Health
 
