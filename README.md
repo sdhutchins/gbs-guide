@@ -7,7 +7,7 @@ Welcome to the Graduate Biomedical Sciences (GBS) doctoral program at the Univer
 ### Incoming Student Checklist
 
 - [ ] Complete the [GBS Incoming Student Checklist](https://www.uab.edu/gbs/home/student-resources/incoming-student-checklist)
-- [ ] Connect with your assigned peer mentor.
+- [ ] Connect with your assigned GBS peer mentor.
 - [ ] Decide on (at least) your first lab rotation.
 
 ## Lab Rotations
@@ -34,7 +34,7 @@ A few tips on how to make the most of your rotation:
 - Take notes about your rotation and note how you feel each day
 - Try to get to know the people in the lab so you can learn as much about what it's like to be in the lab and whether you would want to be around those people for the next 4-5 years
 - Ask as many questions as you can about the lab and mentor
-    - Do you come in the lab on weekends?
+    - Do you come to the lab on weekends?
     - Do you feel pressure to work a lot of hours?
     - How many hours do you work per week?
     - When you feel overwhelmed, do you feel comfortable enough to ask for breaks?
@@ -69,11 +69,18 @@ Participating in campus activities enhances your graduate experience, fosters ne
 
 ### Lab and Peer Connections
 
-Reach out to faculty and senior students for lab-related queries and peer support.
+Never hesitate to reach out to faculty and senior students for lab-related queries and peer support.
+
+- [ ] Join the UAB Labs slack channel.
+- [ ] Join the GBS Students GroupMe.
+- [ ] Join the GGB Theme GroupMe.
+- [ ] Join the Graduate Students GroupMe.
 
 ### Student Concerns
 
 Contact program coordinators or administrators for academic or program-related issues.
+
+- [ ] Contact GSG for student concerns at their [website]().
 
 ### Financial Hardships
 
