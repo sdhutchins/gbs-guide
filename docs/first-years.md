@@ -1,8 +1,12 @@
-# GBS Onboarding Guide
+---
+layout: default
+title: For 1st Year Students
+nav_order: 2
+---
 
-Welcome to the Graduate Biomedical Sciences (GBS) doctoral program at the University of Alabama at Birmingham (UAB). This guide is designed to assist you in navigating the program effectively and making the most of your academic journey.
+# For 1st Year Students
 
-## Getting Started
+{: .no_toc }
 
 ## Incoming Student Checklist
 
