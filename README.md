@@ -141,3 +141,4 @@ Access counseling services through UAB's Student Health and Wellness Center.
 ### Other Resources
 
 - Get a document [notarized](https://www.uab.edu/one-stop/student-resources/notarization-of-documents) for free.
+- UAB Office of Postdoctoral Education (OPE) offers career advising (mock interviews) to graduate students at UAB. To schedule a meeting email, Britney Blackstock (Director of Career Services), at Brfields@uab.edu.   
