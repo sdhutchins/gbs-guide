@@ -38,7 +38,7 @@ A few tips on how to make the most of your rotation:
 
 - Take notes about your rotation and note how you feel each day
 - Try to get to know the people in the lab so you can learn as much about what it's like to be in the lab and whether you would want to be around those people for the next 4-5 years
-- Ask as many questions as you can about the lab and mentor
+- Ask as many questions as you can about the lab and mentor:
     - Do you come to the lab on weekends?
     - Do you feel pressure to work a lot of hours?
     - How many hours do you work per week?
@@ -104,7 +104,7 @@ Never hesitate to reach out to faculty and senior students for lab-related queri
 
 ### Student Concerns
 
-Contact program coordinators or administrators for academic or program-related issues.
+Contact program coordinators or administrators for academic or program-related issues. For non-academic issues, reach out to UAB-related groups or GSG for assistance.
 
 - Contact GSG for student concerns on their [website](https://www.uab.edu/gsg/contact-us).
 - File a [formal complaint](https://www.uab.edu/one-stop/policies/complaint-policy) through the Office of the Provost.
