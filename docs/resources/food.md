@@ -9,13 +9,13 @@ nav_order: 3
 
 {: .no_toc }
 
-## UAB Blazer Kitchen
+## UAB's Blazer Kitchen
 
-UAB Blazer Kitchen offers campus pantry services to all students, ensuring they have access to fresh produce, food, and essential items. The Blazer Kitchen has 2 locations.
+UAB's Blazer Kitchen offers campus pantry services to all students, ensuring they have access to fresh produce, food, and essential items. The Blazer Kitchen has 2 locations.
 
 ### Blazer Kitchen at Hill Student Center
 
-Blazer Kitchen at Hill Student Center is located in Suite 303. Enrolled students need to bring a reusable bag and their ONE Card.
+Blazer Kitchen at Hill Student Center is located in Suite 303. Enrolled students need to bring a reusable bag and their UAB ONE Card.
 
 View their [website](https://www.uab.edu/students/assistance/blazer-kitchen) for more information.
 
