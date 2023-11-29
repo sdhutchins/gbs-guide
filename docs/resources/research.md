@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Research
-nav_order: 2
-has_children: true
+parent: Resources
+nav_order: 5
 ---
 
 # Research
