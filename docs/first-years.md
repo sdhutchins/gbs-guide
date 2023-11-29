@@ -1,10 +1,10 @@
 ---
 layout: default
-title: For 1st Year Students
+title: For 1st Year GBS Students
 nav_order: 2
 ---
 
-# For 1st Year Students
+# For 1st GBS Year Students
 
 {: .no_toc }
 
@@ -108,39 +108,6 @@ Contact program coordinators or administrators for academic or program-related i
 
 - Contact GSG for student concerns on their [website](https://www.uab.edu/gsg/contact-us).
 - File a [formal complaint](https://www.uab.edu/one-stop/policies/complaint-policy) through the Office of the Provost.
-
-### Financial Hardships
-
-- UAB Blazer Kitchen
-    - UAB Blazer Kitchen offers campus pantry services to all students, ensuring they have access to fresh produce, food, and essential items. The Blazer Kitchen is located at 1613 11th Ave S, Birmingham, AL 35205, and is open to students from Wednesday to Friday. Shopping appointments can be booked [online](https://uab.givepulse.com/event/336597-1613-Building-Shopper-Appointments).
-- UAB RIFE $300 Loan
-    - Any UAB student can apply. The loan must be repaid within 90 days (no interest will accrue in that time). After 90 days, the loan will be at a 6% interest rate. Apply [here](https://www.uab.edu/business/regions-institute-for-financial-education/index.php?option=com_rsform&view=rsform&formId=15).
-- Student in Distress Referral
-    - Complete a Student in Distress Referrall [form](https://cm.maxient.com/reportingform.php?UnivofAlabamaBirmingham&layout_id=2) for students experiencing or exhibiting any of the following: Academic Difficulty, Changes in Hygiene, Death of a Family Member, Death of a Friend or Partner, Difficulty Transitioning to a New Environment, Disclosed Mental Health or Emotional Distress, Disordered Eating, Food Insecurities, Financial Insecurities, Hospitalization for Illness/Injury, Hospitalization for Mental Health, Housing Insecurities/Homelessness, Illness/Injury, Impacted by a Natural Disaster or Crisis Event, Misuse of Alcohol or Other Drugs, Repeated Absences from Class, Self-Harm, Suicidal Ideation, Suicide Attempt, or Threatening Behavior towards Others
-- Graduate Student Emergency Medical Assistance Fund (GSEMAF)
-    - The GSEMAF will provide awards to graduate students that are represented by GSG as per GSG constitution, who have incurred excessive medical expenses not covered by insurance that may adversely affect their graduate studies.
-    - Apply [here](https://www.uab.edu/students/health/billing/payment#medical-assistance-grant).
-
-### Mental Health
-
-Access counseling services through UAB's Student Health and Wellness Center.
-
-### Research Support
-
-- UAB Research Computing
-    - UAB Research Computing maintains UAB's supercomputer (Cheaha), which is available for students and researchers as a free resource to boost their research productivity.
-    - To learn more about Cheaha, visit: <https://docs.rc.uab.edu/>
-    - UAB research computing also provides support to the students utilizing Cheaha during their weekly [virtual office hours](https://www.uab.edu/it/home/research-computing) (Mondays and Thursdays: 10 am - Noon)
-
-- UAB Libraries Office of Scholarly Communication
-    - UAB Office of Scholarly Communications assists students with consultations and workshops and helps them navigate research communication areas including research data management guidelines, publication processes, etc. <https://library.uab.edu/office-of-scholarly-communication>
-
-- CCTS BERD: One-on-one Biostatistics Design Consultation
-    - The Center for Clinical and Translational Science's BERD Team offers individual consultations to students and researchers about the study design, data management, and statistical analyses. For more information, check: <https://www.uab.edu/ccts/research-commons/berd>
-
-- UAB's Biological Data Science Core (U-BDS)
-    - Join U-BDS in their weekly data science drop ins (every Thursday at 1:30-2:00pm – extending to 2:30 based on demand each week). You can bring questions and requests and get hands on support from a diverse group of biomedical data scientists, computational biologists and software developers. The Zoom registration link can be found in the "#datascience" channel of the Slack group referenced above (or feel free to ask us directly there).
-    - View their data science/bioinformatics [training](https://u-bds.github.io/training_guides/) guide.
 
 ### Other Resources
 
