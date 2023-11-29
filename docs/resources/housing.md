@@ -18,4 +18,4 @@ Also, [contact them](https://www.uab.edu/studentaffairs/off-campus-and-family/of
 
 ## RentMonster
 
-All UAB students can utilize [RentMonster](https://rentmonster.net/) for free for help finding an apartment.
+All UAB students can utilize [RentMonster](https://rentmonster.net/) for FREE for help finding an apartment.
