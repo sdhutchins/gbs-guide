@@ -7,7 +7,6 @@ permalink: /
 ---
 
 # Unofficial GBS Wiki
-
 {: .fs-9 }
 
 This guide is designed to assist you in navigating the program effectively and making the most of your academic journey. It'll include all the content you won't find in the GBS handbook.
