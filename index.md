@@ -24,7 +24,7 @@ This guide is designed to assist you in navigating the program effectively and m
 This guide is designed to provide advice and additional resources for GBS students, but many aspects of this guide can be utilized by any UAB graduate student (especially the resources.)
 
 {: .note }
-To use the theme, you do ***not*** need to clone or fork the [Just the Docs repo]! You should do that only if you intend to browse the theme docs locally, contribute to the development of the theme, or develop a new theme based on Just the Docs.
+Please be aware that some links may break from time to time as resources may become outdated. If you find a broken link, please let us know by creating an issue on our GitHub repository. Also, always check the official UAB website for the most up-to-date information.
 
 ### Contributing
 
