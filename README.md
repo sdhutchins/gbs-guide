@@ -1,4 +1,4 @@
-# GBS Onboarding Guide
+# Unofficial GBS Guide
 
 Welcome to the Graduate Biomedical Sciences (GBS) doctoral program at the University of Alabama at Birmingham (UAB). This guide is designed to assist you in navigating the program effectively and making the most of your academic journey.
 
@@ -32,6 +32,6 @@ As this guide is unofficial, it should not be considered a replacement for advic
 
 ## Access the Guide
 
-Explore the full GBS Onboarding Guide at: [http://unofficialgbs.wiki/](http://unofficialgbs.wiki/)
+Explore the full GBS Onboarding Guide at: [https://gbsguide.wiki/](https://gbsguide.wiki/)
 
 We hope this guide serves as a helpful companion throughout your time in the GBS program. Welcome, and good luck on your academic journey!
