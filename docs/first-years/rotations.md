@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rotations
-parent: First Years
+parent: For 1st Year GBS Students
 nav_order: 1
 ---
 
