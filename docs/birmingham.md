@@ -8,6 +8,12 @@ nav_order: 5
 
 {: .no_toc }
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 ## Welcome to Birmingham!
 
 Birmingham is known for its rich history, vibrant culture, and growing industries. Whether you're new to the city or have been here for a while, there’s always something to discover.

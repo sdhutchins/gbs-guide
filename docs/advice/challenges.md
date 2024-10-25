@@ -1,11 +1,11 @@
 ---
 layout: default
-title: PhD Challenges & Solutions
+title: Common PhD Challenges
 parent: Advice
 nav_order: 1
 ---
 
-# Common PhD Challenges & Solutions
+# Common PhD Challenges
 
 Below are a list of challenges that are common to face during your PhD as organized by the below article[^1].
 
