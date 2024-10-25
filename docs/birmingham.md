@@ -31,7 +31,7 @@ Birmingham offers a variety of activities for residents and visitors alike:
 - **Visit the Birmingham Museum of Art**: Home to thousands of art pieces from around the world.
 - **Explore the Birmingham Civil Rights Institute**: Learn about the city's significant role in the Civil Rights Movement.
 - **Hike at Ruffner Mountain**: A nature preserve with beautiful hiking trails and scenic views.
-- **Take a Walk at Railroad Park**: A 19-acre green space in downtown Birmingham, perfect for picnics and outdoor activities.
+- **Take a Walk at [Railroad Park](https://www.railroadpark.org/)**: A 19-acre green space in downtown Birmingham, perfect for picnics and outdoor activities.
 - **Catch a Show at the [Alabama Theatre](https://alabamatheatre.com/)**: A historic theater that hosts concerts, movies, and other events.
 - **Attend a Sporting Event**: Cheer on the UAB Blazers (*graduate students get free tickets to UAB sports*) or the Birmingham Barons baseball team. There is also a new professional soccer team, Birmingham Legion FC.
 
