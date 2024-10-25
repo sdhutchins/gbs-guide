@@ -25,12 +25,6 @@ Birmingham is home to diverse neighborhoods, each offering its own unique vibe:
 - **Homewood**: A charming suburb with boutique shops and a friendly atmosphere.
 - **Mountain Brook**: A beautiful, upscale community known for its scenic parks and village-like atmosphere.
 
-### Education and Research
-
-Birmingham is also recognized for its educational institutions and research facilities:
-- **University of Alabama at Birmingham (UAB)**: A world-class institution known for its medical research and healthcare programs.
-- **Southern Research**: A nonprofit research organization involved in drug discovery and development.
-  
 ### Things to Do
 
 Birmingham offers a variety of activities for residents and visitors alike:
@@ -38,7 +32,7 @@ Birmingham offers a variety of activities for residents and visitors alike:
 - **Explore the Birmingham Civil Rights Institute**: Learn about the city's significant role in the Civil Rights Movement.
 - **Hike at Ruffner Mountain**: A nature preserve with beautiful hiking trails and scenic views.
 - **Take a Walk at Railroad Park**: A 19-acre green space in downtown Birmingham, perfect for picnics and outdoor activities.
-- **Catch a Show at the Alabama Theatre**: A historic theater that hosts concerts, movies, and other events.
+- **Catch a Show at the [Alabama Theatre](https://alabamatheatre.com/)**: A historic theater that hosts concerts, movies, and other events.
 - **Attend a Sporting Event**: Cheer on the UAB Blazers (*graduate students get free tickets to UAB sports*) or the Birmingham Barons baseball team. There is also a new professional soccer team, Birmingham Legion FC.
 
 ### Food and Dining
