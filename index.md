@@ -17,7 +17,7 @@ This guide is designed to assist you in navigating the program effectively and m
 ---
 
 {: .disclaimer}
-> This guide is NOT officially endorsed by UAB. This guide was created by senior graduate students in the GBS program.
+> This guide is NOT officially endorsed by UAB or GBS. This guide was created by senior graduate students in the GBS program.
 
 ## Getting Started
 
@@ -29,7 +29,7 @@ Please be aware that some links may break from time to time as resources may bec
 ### Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/just-the-docs/just-the-docs#contributing).
+email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/sdhutchins/gbs-guide/CONTRIBUTING.md).
 
 #### Thank you to the contributors of the Unofficial GBS Wiki
 
@@ -45,4 +45,4 @@ email, or any other method with the owners of this repository before making a ch
 
 We are committed to fostering a welcoming community.
 
-[View our Code of Conduct](https://github.com/just-the-docs/just-the-docs/tree/main/CODE_OF_CONDUCT.md) on our GitHub repository.
+[View our Code of Conduct](https://github.com/sdhutchins/gbs-guide/tree/main/CODE_OF_CONDUCT.md) on our GitHub repository.
