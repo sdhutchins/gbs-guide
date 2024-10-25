@@ -2,6 +2,7 @@
 layout: default
 title: For 1st Year GBS Students
 nav_order: 2
+has_children: true
 ---
 
 # For 1st GBS Year Students
