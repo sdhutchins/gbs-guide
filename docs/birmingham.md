@@ -5,8 +5,10 @@ nav_order: 5
 ---
 
 # All About Birmingham
-
 {: .no_toc }
+
+A comprehensive guide to Birmingham, Alabama, for new and current students.
+{: .fs-5 .fw-300 }
 
 ## Table of contents
 {: .no_toc .text-delta }
