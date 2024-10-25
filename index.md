@@ -2,11 +2,11 @@
 layout: default
 title: Home
 nav_order: 1
-description: GBS Onboarding
+description: Unofficial GBS Guide
 permalink: /
 ---
 
-# Unofficial GBS Wiki
+# Unofficial GBS Guide
 {: .fs-9 }
 
 This guide is designed to assist you in navigating the program effectively and making the most of your academic journey. It'll include all the content you won't find in the GBS handbook.
@@ -31,7 +31,7 @@ Please be aware that some links may break from time to time as resources may bec
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/sdhutchins/gbs-guide/CONTRIBUTING.md).
 
-#### Thank you to the contributors of the Unofficial GBS Wiki
+#### Thank you to the contributors of the Unofficial GBS Guide
 
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
