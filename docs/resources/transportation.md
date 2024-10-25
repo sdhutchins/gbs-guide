@@ -27,3 +27,13 @@ The UAB Blazer Express Safety Escort provides late-night, on-demand van service 
 Groome Transportation provides shuttle services to and from Birmingham-Shuttlesworth International Airport, connecting travelers to various destinations in the region. This service is ideal for UAB students, staff, and visitors needing reliable airport transportation.
 
 [Website](https://groometransportation.com/birmingham/?&sd_client_id=9ee26540-931f-40b8-aae3-063668645dd6){: .btn .btn-primary .fs-3 .mb-4 .mb-md-0 .mr-2 }
+
+## Other Transportation Options
+
+Birmingham offers additional transportation options to enhance mobility around campus:
+
+- **Veo Scooters**: Electric scooters are available for rent on campus through Veo, offering a convenient and quick way to navigate UAB and the surrounding area. Users are encouraged to practice safety, including wearing helmets and following traffic rules, to ensure a secure riding experience.
+
+[Website](https://www.veoride.com/veo-scooter/){: .btn .btn-primary .fs-3 .mb-4 .mb-md-0 .mr-2 }
+
+- **Walking & Biking**: UAB's pedestrian-friendly campus encourages walking and biking, with designated pathways and bike racks available throughout the area. Practicing safety, such as using designated crosswalks and staying aware of traffic, is important.
