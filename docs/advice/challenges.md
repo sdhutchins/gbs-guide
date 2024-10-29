@@ -7,9 +7,11 @@ nav_order: 1
 
 # Common PhD Challenges
 
-Below are a list of challenges that are common to face during your PhD as organized by the below article[^1].
+{: .no_toc }
 
-Some potential solutions and resources are provided as well.
+Below are a list of challenges (and solutions) that are common to face during your PhD as organized by the below article[^1].
+
+{: .fs-5 .fw-300 }
 
 ## Isolation and Loneliness
 
