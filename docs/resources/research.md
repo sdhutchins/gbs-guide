@@ -23,7 +23,7 @@ UAB research computing also provides support to the students utilizing Cheaha du
 
 UAB's Office of Scholarly Communications assists students with consultations and workshops and helps them navigate research communication areas including research data management guidelines, publication processes, etc.
 
-[Website](https://library.uab.edu/office-of-scholarly-communication)
+[Website](https://library.uab.edu/office-of-scholarly-communication){: .btn .btn-primary .fs-3 .mb-4 .mb-md-0 .mr-2 }
 
 ## CCTS BERD: One-on-one Biostatistics Design Consultation
 
