@@ -2,14 +2,18 @@
 layout: default
 title: Rotations
 parent: For 1st Year GBS Students
-nav_order: 1
+nav_order: 3
 ---
+# Lab Rotations
 
-## Lab Rotations
+{: .no_toc }
 
-### Exploring Research Opportunities
+Selecting a lab is the most important decision you'll have during your PhD.
+{: .fs-5 .fw-300 }
 
-### Selecting Rotation Mentors
+## Exploring Research Opportunities
+
+## Selecting Rotation Mentors
 
 During your initial lab rotations, you'll have the chance to collaborate with esteemed faculty members across diverse research domains. This experience will help you identify potential research mentors for your doctoral studies.
 
@@ -20,7 +24,7 @@ A few tips on how to find a good rotation mentor:
 - If there are more negative than positive reviews of the PI, it is likely best to AVOID.
     - Labs that have toxic cultures very rarely suddenly change or change because of a new student.
 
-### Engaging in Rotations
+## Engaging in Rotations
 
 Lab rotations provide a hands-on experience in different research labs. This exposure allows you to learn various research methodologies, understand lab dynamics, and explore potential research projects.
 
@@ -41,4 +45,4 @@ A few tips on how to make the most of your rotation:
     - Are you encouraged to attend seminars or be involved on campus?
     - How early do people typically come into the lab and are there any core lab working hours?
 
-### Selecting a Mentor/Lab
+## Selecting a Mentor/Lab
