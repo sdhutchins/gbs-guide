@@ -18,4 +18,8 @@ nav_order: 7
 Contact program coordinators or administrators for academic or program-related issues. For non-academic issues, reach out to UAB-related groups or GSG for assistance.
 
 - Contact GSG for student concerns on their [website](https://www.uab.edu/gsg/contact-us).
-- File a [formal complaint](https://www.uab.edu/one-stop/policies/complaint-policy) through the Office of the Provost.
+- File a [formal complaint](https://www.uab.edu/one-stop/policies/complaint-policy) through the Office of the Provost.'
+
+## Perks
+
+While graduate students are not quite just students or just employees, they can still enjoy many of the UAB employee perks listd on [this website](https://uab.edu/humanresources/home/benefits/perks).
