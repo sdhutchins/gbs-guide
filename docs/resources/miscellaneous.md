@@ -11,7 +11,7 @@ nav_order: 7
 
 ## UAB's One Stop Student Services
 
-- Get a document [notarized](https://www.uab.edu/one-stop/student-resources/notarization-of-documents) for free.
+- Get a document [notarized](https://www.uab.edu/one-stop/student-resources/notary-services) for free.
 
 ## Student Concerns
 
@@ -23,3 +23,5 @@ Contact program coordinators or administrators for academic or program-related i
 ## Perks
 
 While graduate students are not quite just students or just employees, they can still enjoy many of the UAB employee perks listd on [this website](https://uab.edu/humanresources/home/benefits/perks).
+
+Further, view [perks available through UAB Eye Care](https://www.uab.edu/optometry/home/uab-eye-care/uab-student-and-employee-perks). 
