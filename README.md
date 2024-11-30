@@ -1,5 +1,8 @@
 # Unofficial GBS Guide
 
+![Static Badge](https://img.shields.io/badge/documentation-ongoing-blue)
+![Static Badge](https://img.shields.io/badge/status-draft-orange)
+
 Welcome to the Graduate Biomedical Sciences (GBS) doctoral program at the University of Alabama at Birmingham (UAB). This guide is designed to assist you in navigating the program effectively and making the most of your academic journey.
 
 **Important Notice:** This document is **NOT official** and is created by students, for students. The information provided is based on collective experiences and insights from those who have gone through the program. While we strive to offer accurate and helpful guidance, please take all advice at your own discretion. Always verify with official program resources and advisors when necessary.
@@ -28,7 +31,9 @@ To contribute, visit the [contributing document](./.github/CONTRIBUTING.md) for 
 
 ## Disclaimer
 
-As this guide is unofficial, it should not be considered a replacement for advice from faculty, advisors, or official program documentation. Use this resource as a supplement to the information provided by the GBS program and UAB.
+Again, as this guide is unofficial, it should not be considered a replacement for advice from faculty, advisors, or official program documentation. Use this resource as a supplement to the information provided by the GBS program and UAB.
+
+We have marked areas as "disclaimer" where the advice is based on personal experiences and may not apply universally. Always exercise your judgment and seek official guidance when needed.
 
 ## Access the Guide
 
