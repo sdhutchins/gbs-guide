@@ -19,7 +19,12 @@ To set yourself up for success:
 - Familiarize yourself with the UAB student resources available to you, including academic support and study spaces.
 
 ## 1st Semester Courses
-These are the core courses you will take in your first semester. They are designed to build a solid foundation in key scientific areas:
+These are the core courses you will take in your first semester. 
+
+{: .note }
+Most of the below books can be found as pdfs online for free.
+
+They are designed to build a solid foundation in key scientific areas.
 
 - **GBS 707 - Basic Biochemistry & Metabolism**  
   **Recommended Text**: *Biochemistry, 4th Ed.* (Voet & Voet)
@@ -37,7 +42,7 @@ To make sure you're prepared for the coursework:
 - Review course syllabi carefully to understand expectations and grading criteria.
 - Reach out to second-year or senior GBS students for study tips.
 - Seek out study resources like the course textbooks or online materials/tutorials.
-- Be prepared to utilize tutoring services if you find yourself struggling.
+- Be prepared to utilize tutoring services (contact the GBS office) if you find yourself struggling.
 - If you suspect you may need accommodations, contact the UAB Disability Support Services.
 
 ## Study Tips
@@ -45,9 +50,8 @@ To make sure you're prepared for the coursework:
 Here are some strategies to help you succeed in your coursework:
 
 - **Form Study Groups**: Collaborating with classmates can provide diverse perspectives and help clarify difficult concepts. It will also help you build relationships.
-- **Utilize GBS Tutors**: Don’t hesitate to ask questions or seek guidance from course instructors during office hours.
-- **Review Weekly**: Regularly go over your notes to reinforce what you've learned. Small, consistent reviews are more effective than last-minute cramming.
-- **Practice Active Learning**: Engage with the material by teaching it to someone else, creating diagrams, or summarizing key points.
+- **Utilize GBS Tutors**: Don’t hesitate to ask questions or seek guidance from GBS tutors.
+- **Review Lecture Notes Daily**: Regularly go over your notes to reinforce what you've learned. Small, consistent reviews are more effective than last-minute cramming.
 - **Take Breaks**: Include short breaks in your study sessions to avoid burnout and keep your focus sharp.
 
 ## Academic Integrity
@@ -68,12 +72,11 @@ Here are a few examples of what constitutes cheating and how to avoid it:
 
 These examples clarify what constitutes academic dishonesty in the context of coursework and exams, ensuring a fair and respectful academic environment for everyone.
 
-## Resources for Success
+## More Resources for Success
 
 Make the most of the resources available to you:
 
-- **Library Access**: Use the UAB libraries for access to study spaces.
-- **Tutoring Services**: Take advantage of free tutoring by senior GBS students.
+- **Library Access**: Use [Lister Hill Library](https://library.uab.edu/locations/lister-hill) (open to 11 PM Mon-Thurs) or [Mervyn H. Sterne Library](https://library.uab.edu/locations/sterne) (24 hours Mon-Thurs) for access to study spaces.
 - **Study Apps**: Consider apps like Anki or Quizlet for effective flashcard-based learning.
 - **Mental Health Support**: Remember that academic pressure can be intense; reach out to counseling services if needed.
 
