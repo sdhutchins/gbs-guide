@@ -73,10 +73,10 @@ The below advice has been compiled from current and former grad students to help
 - Ask yourself: Will the skills and techniques I learn here help me get the career I want?  
 - While academic positions are rare, many PhDs find fulfilling roles in government, biotech, or pharma. Make sure your lab prepares you for multiple career paths.  
 
-## 4. Pick a Project You’re Excited About  
+### 4. Pick a Project You’re Excited About  
 - Passion for your project makes grad school more enjoyable. Plus, your enthusiasm will shine in meetings and conferences.  
 - While it’s not the most important factor, working on something you love can make a huge difference day-to-day.  
 
 ## Recommended Reading
 
-If this guide hasn't provided enough information, read [this article][https://asm.org/articles/2017/march/careers-education-career-options-planning-42#:~:text=The%20best%20strategy%20is%20in,dive%20into%20the%20lab%20hunt] that was written by a PhD student, which provides additional advice on selecting a lab.
+If this guide hasn't provided enough information, read [this article][https://asm.org/Articles/2017/March/Careers-Education-Career-Options-Planning-42] that was written by a PhD student, which provides additional advice on selecting a lab.
