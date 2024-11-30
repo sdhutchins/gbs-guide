@@ -13,6 +13,8 @@ Selecting a lab is the most important decision you'll have during your PhD.
 
 ## Exploring Research Opportunities
 
+When starting grad school, it’s easy to focus on a specific disease or organ system that initially interests you. However, being open to exploring diverse research areas can lead to unexpected discoveries, broaden your skill set, and help you identify a lab/mentor better suited for your future goals. Many techniques and approaches are transferable across fields, and trying different areas might uncover passions you didn’t know you had. 
+
 ## Selecting Rotation Mentors
 
 During your initial lab rotations, you'll have the chance to collaborate with esteemed faculty members across diverse research domains. This experience will help you identify potential research mentors for your doctoral studies.
@@ -23,6 +25,7 @@ A few tips on how to find a good rotation mentor:
 - Always ask students in later years (2nd years and upwards) about the reputation of the PI.
 - If there are more negative than positive reviews of the PI, it is likely best to AVOID.
     - Labs that have toxic cultures very rarely suddenly change or change because of a new student.
+- Use [UAB Scholars](https://scholars.uab.edu/) to search for faculty members and their research interests. You can also find out students they mentor, have mentored, or serve on the committee of via the "Teaching & Mentoring" tab.
 
 ## Engaging in Rotations
 
@@ -38,11 +41,42 @@ A few tips on how to make the most of your rotation:
     - How many hours do you work per week?
     - When you feel overwhelmed, do you feel comfortable enough to ask for breaks?
     - Are you able to take vacations/time off when you want or need to?
-    - What is the mentorships style of your mentor?
+    - What is the mentorship style of your mentor?
     - Is this lab very hands-on or do I need to be more independent?
     - What skills should I have before joining this lab?
-    - Do you feel supported as a student, researchers, post-doc?
+    - Do you feel supported as a student, researcher, or post-doc?
     - Are you encouraged to attend seminars or be involved on campus?
     - How early do people typically come into the lab and are there any core lab working hours?
+    - How often does the lab have group meetings or one-on-one meetings with the PI?
+    - Are there regular social activities or events to build camaraderie among lab members?
+    - Are lab members encouraged to attend and present at conferences?
+    - Are there opportunities to learn new techniques or collaborate on projects outside of my immediate focus?
+    - How long have most students or postdocs stayed in this lab, and what have they gone on to do?
+
 
 ## Selecting a Mentor/Lab
+
+After completing your rotations, you'll need to select a mentor and lab. Below is a priortized list of factors to consider when selecting a mentor/lab:
+
+{: .disclaimer}
+The below advice has been compiled from current and former grad students to help you make the best decision for your future. We can't guarantee this advice will work for everyone, but we hope it helps you make an informed choice.
+
+### 1. Choose a "Healthy" Lab Environment
+- Avoid labs with toxic dynamics. Talk to current and former lab members or alumni to get the real story.  
+- Your mental health matters. Grad school is challenging enough without adding unnecessary stress from a difficult PI or unhealthy lab culture.  
+
+### 2. Check the Lab’s Funding  
+- Research is expensive. Ask the PI directly about their funding situation to ensure the lab can support your work without constant budget worries.  
+- A well-funded lab means fewer headaches over materials and resources, allowing you to focus on your science.  
+
+### 3. Think About Your Future Career  
+- Ask yourself: Will the skills and techniques I learn here help me get the career I want?  
+- While academic positions are rare, many PhDs find fulfilling roles in government, biotech, or pharma. Make sure your lab prepares you for multiple career paths.  
+
+## 4. Pick a Project You’re Excited About  
+- Passion for your project makes grad school more enjoyable. Plus, your enthusiasm will shine in meetings and conferences.  
+- While it’s not the most important factor, working on something you love can make a huge difference day-to-day.  
+
+## Recommended Reading
+
+If this guide hasn't provided enough information, read [this article][https://asm.org/articles/2017/march/careers-education-career-options-planning-42#:~:text=The%20best%20strategy%20is%20in,dive%20into%20the%20lab%20hunt] that was written by a PhD student, which provides additional advice on selecting a lab.
