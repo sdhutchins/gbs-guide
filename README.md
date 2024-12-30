@@ -1,7 +1,7 @@
 # Unofficial GBS Guide
 
 ![Static Badge](https://img.shields.io/badge/documentation-ongoing-blue)
-![Static Badge](https://img.shields.io/badge/status-in-progress-orange)
+![Static Badge](https://img.shields.io/badge/status-in%20progress-orange)
 
 Welcome to the Graduate Biomedical Sciences (GBS) doctoral program at the University of Alabama at Birmingham (UAB). This guide is designed to assist you in navigating the program effectively and making the most of your academic journey.
 
