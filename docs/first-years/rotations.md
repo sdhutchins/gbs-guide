@@ -79,4 +79,4 @@ The below advice has been compiled from current and former grad students to help
 
 ## Recommended Reading
 
-If this guide hasn't provided enough information, read [this article][https://asm.org/Articles/2017/March/Careers-Education-Career-Options-Planning-42] that was written by a PhD student, which provides additional advice on selecting a lab.
+If this guide hasn't provided enough information, read [this article](https://asm.org/Articles/2017/March/Careers-Education-Career-Options-Planning-42) that was written by a PhD student, which provides additional advice on selecting a lab.
