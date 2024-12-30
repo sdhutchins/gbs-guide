@@ -14,12 +14,18 @@ Getting ready for your first semester can be both exciting and overwhelming.
 To set yourself up for success:
 
 - Organize your schedule and mark important dates for each course.
-- Review the recommended texts and consider purchasing or borrowing them.
+- Review the recommended texts and try to find them online.
 - Look over the course objectives and expected outcomes from the syllabi.
 - Familiarize yourself with the UAB student resources available to you, including academic support and study spaces.
 
+{: .important }
+First semester courses can be very difficult. There is a lot of content, and as a student, you are still adjusting to the pace of graduate school, a new city, and rotating in labs. Have some grace for yourself!
+
 ## 1st Semester Courses
-These are the core courses you will take in your first semester. 
+
+These are the core courses (as of fall 2024) you will take in your first semester. 
+
+Refer to the [coursework website](https://www.uab.edu/gbs/home/requirements/coursework) for more details.
 
 {: .note }
 Most of the below books can be found as pdfs online for free.
@@ -70,14 +76,15 @@ Here are a few examples of what constitutes cheating and how to avoid it:
 
 5. **Taking Photos of Tests**: Capturing screenshots or taking photos of exams, test questions, or answer sheets to share with others or use later is strictly prohibited. Respect exam integrity by avoiding any unauthorized recordings.
 
-These examples clarify what constitutes academic dishonesty in the context of coursework and exams, ensuring a fair and respectful academic environment for everyone.
+{: .disclaimer }
+These are not the only examples of academic misconduct. Refer to UAB's academic integrity policy or the program director.
 
 ## More Resources for Success
 
 Make the most of the resources available to you:
 
 - **Library Access**: Use [Lister Hill Library](https://library.uab.edu/locations/lister-hill) (open to 11 PM Mon-Thurs) or [Mervyn H. Sterne Library](https://library.uab.edu/locations/sterne) (24 hours Mon-Thurs) for access to study spaces.
-- **Study Apps**: Consider apps like Anki or Quizlet for effective flashcard-based learning.
+- **Study Apps**: Consider apps like Anki or [Quizlet](https://quizlet.com/) for effective flashcard-based learning.
 - **Mental Health Support**: Remember that academic pressure can be intense; reach out to counseling services if needed.
 
 ## Building Good Habits
