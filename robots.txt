@@ -10,4 +10,4 @@ Disallow: /assets/js/vendor/
 Sitemap: https://gbsguide.wiki/sitemap.xml
 
 # Crawl delay to be respectful to server resources
-Crawl-delay: 1 
+Crawl-delay: 1
