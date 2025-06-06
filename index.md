@@ -9,7 +9,7 @@ permalink: /
 # Unofficial GBS Guide
 {: .fs-9 }
 
-This guide is designed to assist you in navigating the program effectively and making the most of your academic journey. It'll include all the content you won't find in the GBS handbook.
+This guide is designed to assist you in navigating the program effectively and making the most of your academic journey. It'll include all the content you won't find in the GBS (Graduate Biomedical Sciences) handbook. Use this as a supplement - not a replacement - to the handbook.
 {: .fs-5 .fw-300 }
 
 [Getting Started](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -17,14 +17,14 @@ This guide is designed to assist you in navigating the program effectively and m
 ---
 
 {: .disclaimer}
-> This guide is NOT officially endorsed by UAB or GBS. This guide was created by senior graduate students in the GBS program.
+> This guide is NOT officially endorsed by UAB or GBS. This guide was created by senior graduate students in the GBS program. Please refer to the GBS handbook to verify any information about requirements for the program.
 
 ## Getting Started
 
-This guide is designed to provide advice and additional resources for GBS students, but many aspects of this guide can be utilized by any UAB graduate student (especially the resources.)
+This guide is designed to provide advice and additional resources for GBS students, but many aspects of this guide can be utilized by any UAB graduate student (especially the resources).
 
 {: .note }
-Please be aware that some links may break from time to time as resources may become outdated. If you find a broken link, please let us know by creating an issue on our GitHub repository. Also, always check the official UAB website for the most up-to-date information.
+Please be aware that some links may break from time to time as resources may become outdated. If you find a broken link, please let us know by creating an issue on our GitHub repository. Also, always check the official UAB GBS website for the most up-to-date information.
 
 ### Contributing
 
