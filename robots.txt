@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Disallow admin and cache directories
+Disallow: /.jekyll-cache/
+Disallow: /_site/
+Disallow: /assets/js/vendor/
+
+# Sitemap location
+Sitemap: https://gbsguide.wiki/sitemap.xml
+
+# Crawl delay to be respectful to server resources
+Crawl-delay: 1 

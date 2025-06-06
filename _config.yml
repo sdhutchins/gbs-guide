@@ -14,10 +14,26 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Unofficial GBS Guide
-description: A Jekyll theme for documentation
+description: A comprehensive guide for UAB Graduate Biomedical Sciences students with advice, resources, and insider knowledge not found in the official handbook.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gbsguide.wiki" # the base hostname & protocol for your site, e.g. http://example.com
 repository: sdhutchins/gbs-guide # for github-metadata
+
+# SEO and Social Media Configuration
+author: GBS Graduate Students
+twitter:
+  username: gbsguide # Add your Twitter handle if you have one
+  card: summary_large_image
+social:
+  name: Unofficial GBS Guide
+  links:
+    - https://github.com/sdhutchins/gbs-guide
+    - https://gbsguide.wiki
+
+# Enhanced SEO
+tagline: "Your unofficial guide to navigating UAB's Graduate Biomedical Sciences program"
+keywords: "UAB, Graduate School, Biomedical Sciences, PhD, Graduate Students, Academic Guide, University of Alabama Birmingham"
+locale: en_US
 
 permalink: pretty
 
@@ -160,13 +176,15 @@ callouts:
 # Google Analytics Tracking (optional)
 # Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
 # Note: the main Just the Docs site does *not* use Google Analytics.
-# ga_tracking: UA-2709176-10,G-5FG1HLH3XQ
-# ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+# Uncomment and add your Google Analytics ID:
+# ga_tracking: G-XXXXXXXXXX
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 plugins:
   - jekyll-seo-tag
   - jekyll-github-metadata
   - jekyll-include-cache
+  - jekyll-sitemap
 
 kramdown:
   syntax_highlighter_opts:
@@ -182,3 +200,23 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
+
+# Additional SEO and Performance Settings
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Enable incremental build for faster development
+incremental: true
+
+# Optimize for GitHub Pages
+lsi: false
+safe: true
+destination: ./_site
+keep_files: [.git, .svn]
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Better caching
+include:
+  - _pages
