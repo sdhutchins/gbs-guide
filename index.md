@@ -2,10 +2,10 @@
 layout: default
 title: Home
 nav_order: 1
-description: Unofficial GBS Guide - A comprehensive resource for UAB Graduate Biomedical Sciences students with insider advice, tips, and resources not found in the official handbook.
+description: Essential guide for UAB Graduate Biomedical Sciences students with insider advice and resources not in the official handbook.
 permalink: /
 seo:
-  type: WebSite
+  type: Website
   name: Unofficial GBS Guide
 keywords: "UAB GBS, Graduate Biomedical Sciences, UAB Graduate School, PhD Guide, Graduate Student Resources, Academic Advice, University of Alabama Birmingham"
 ---
