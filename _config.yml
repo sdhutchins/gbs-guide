@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Unofficial GBS Guide
-description: Essential guide for UAB Graduate Biomedical Sciences students with insider advice and resources not in the official handbook.
+description: A guide for UAB Graduate Biomedical Sciences students (made by senior GBS students) with advice and resources not in the official GBS handbook.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gbsguide.wiki" # the base hostname & protocol for your site, e.g. http://example.com
 repository: sdhutchins/gbs-guide # for github-metadata
@@ -32,7 +32,7 @@ social:
 
 # Enhanced SEO
 tagline: "Your unofficial guide to navigating UAB's Graduate Biomedical Sciences program"
-keywords: "UAB, Graduate School, Graduate Biomedical Sciences, PhD, Graduate Students, GBS handbook, University of Alabama Birmingham"
+keywords: "GBS courses, UAB, Graduate School, Graduate Biomedical Sciences, PhD, Graduate Students, UAB GBS handbook, University of Alabama Birmingham"
 locale: en_US
 
 permalink: pretty
