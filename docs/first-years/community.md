@@ -50,6 +50,8 @@ Never hesitate to reach out to faculty and senior students for lab-related queri
 #### Most Important Groups
 
 - Join the [UAB Labs Slack](https://join.slack.com/t/uablabs/shared_invite/zt-211dwtcgl-d48Ws05G1v4RlIqOZsJULw) - here you can access the very active datascience channel.
+- Join the [GBS 2025 GroupMe](https://groupme.com/join_group/108702698/Dt1nnV59) for all incoming 2024 GBS students.
+    - This group is arguably the most important for first years. This is a group to discuss studying for core courses, bond with other peers, discuss rotations, and discuss other 1st Year related challenges.
 - Join the [GBS 2024 GroupMe](https://groupme.com/join_group/102115121/tN8FpFHI) for all incoming 2024 GBS students.
     - This group is arguably the most important for first years. This is a group to discuss studying for core courses, bond with other peers, discuss rotations, and discuss other 1st Year related challenges.
 - Join the [GBS 2023 GroupMe](https://groupme.com/join_group/95806485/NclsAaz9) for all incoming 2023 GBS students.
