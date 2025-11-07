@@ -5,18 +5,20 @@ nav_order: 5
 ---
 
 # All About Birmingham
+
 {: .no_toc }
 
 A comprehensive guide to Birmingham, Alabama, for new and current students.
 {: .fs-5 .fw-300 }
 
 ## Table of contents
+
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
-## Welcome to Birmingham!
+## Welcome to Birmingham
 
 Birmingham is known for its rich history, vibrant culture, and growing industries. Whether you're new to the city or have been here for a while, there’s always something to discover.
 
@@ -27,6 +29,7 @@ Founded in 1871, Birmingham has a deep history rooted in the iron and steel indu
 ### Neighborhoods
 
 Birmingham is home to diverse neighborhoods, each offering its own unique vibe:
+
 - **Downtown**: The heart of Birmingham, filled with businesses, restaurants, and entertainment venues.
 - **Avondale**: Known for its trendy eateries, bars, and parks.
 - **Five Points South**: A historical district with a mix of dining, nightlife, and cultural attractions.
@@ -36,6 +39,7 @@ Birmingham is home to diverse neighborhoods, each offering its own unique vibe:
 ### Things to Do
 
 Birmingham offers a variety of activities for residents and visitors alike:
+
 - **Visit the [Birmingham Museum of Art](https://www.artsbma.org/)**: Home to thousands of art pieces from around the world.
 - **Explore the [Birmingham Civil Rights Institute](https://www.bcri.org/)**: Learn about the city's significant role in the Civil Rights Movement.
 - **Hike at [Ruffner Mountain](https://ruffnermountain.org/)**: A nature preserve with beautiful hiking trails and scenic views.
@@ -45,7 +49,6 @@ Birmingham offers a variety of activities for residents and visitors alike:
     - **[Birmingham Squadron](https://birmingham.gleague.nba.com/)**: An NBA G League team affiliated with the New Orleans Pelicans.
     - **[Birmingham Bulls](https://www.bullshockey.net/)**: A professional hockey team playing in the Southern Professional Hockey League (SPHL).
 
-
 ### Food and Dining
 
 Discover some of the city's best restaurants, coffee shops, and breweries.
@@ -54,8 +57,8 @@ Discover some of the city's best restaurants, coffee shops, and breweries.
 
 - [**Bottega**](https://www.bottegarestaurant.com/): An upscale Italian restaurant offering a mix of classic and contemporary dishes.
 - [**The Essential**](https://www.essentialbham.com/): A chic spot for brunch, with an emphasis on fresh, local ingredients.
-- [**Makarios Kabob and Grill**](https://makarioskabobandgrill.com/): Serving up Middle Eastern cuisine, Makarios is a long-standing favorite for fresh kabobs, shawarma, and falafel.
-- [**Falafel Cafe**](https://falafelcafebham.com/): A go-to spot for Mediterranean dishes, Falafel Cafe offers authentic falafel, hummus, and gyro plates in a relaxed setting.
+- [**Makarios Kabob and Grill**](https://www.makarioskabob.com/): Serving up Middle Eastern cuisine, Makarios is a long-standing favorite for fresh kabobs, shawarma, and falafel.
+- [**Falafel Cafe**](https://www.falafelcafe.com/): A go-to spot for Mediterranean dishes, Falafel Cafe offers authentic falafel, hummus, and gyro plates in a relaxed setting.
 - [**The Pancake House**](https://www.originalpancakehouse.com/): Located in Homewood & Five Points, The Original Pancake House has been serving classic breakfast dishes for decades, known for its large portions and family-friendly atmosphere.
 - [**Hero Doughnuts & Buns**](https://www.herodoughnutsandbuns.com/): Originally a pop-up, Hero Doughnuts now has several locations, offering fresh-made doughnuts and savory buns in a casual setting.
 - [**Bawarchi Indian Cuisine**](https://bawarchibirmingham.com/): A popular spot for Indian food, Bawarchi offers a wide range of traditional dishes, from biryanis to curries, in a cozy, welcoming space.
@@ -70,8 +73,8 @@ Discover some of the city's best restaurants, coffee shops, and breweries.
 - [**O'Henry's Coffee**](https://ohenryscoffees.com/): A Birmingham staple with multiple locations, O'Henry's offers a range of coffee drinks, teas, and pastries in a relaxed setting.
 - [**June Coffee**](https://www.junecoffeeco.com/): Located downtown, June Coffee offers a variety of coffee drinks, teas, and pastries in a sleek, minimalist setting.
 - [**Bandido Coffee Parlor**](https://bandidobham.com/): Located in 5 points. The coffee is great, and the decor is nice. They also offer pastries.
-- [**Santos Coffee**](https://santoscoffee.com/): A local coffee shop in downtown Birmingham, Santos Coffee offers a variety of coffee drinks, teas, and light bites in a cozy, welcoming space.
-- [**Bandit Pâtisserie**](https://banditpatisserie.com/): A French-inspired bakery and coffee shop in downtown Birmingham, Bandit Pâtisserie offers a variety of pastries, coffee drinks, and light bites in a charming setting.
+- [**Santos Coffee**](https://linktr.ee/SantosCoffee): A local coffee shop in downtown Birmingham, Santos Coffee offers a variety of coffee drinks, teas, and light bites in a cozy, welcoming space.
+- [**Bandit Pâtisserie**](https://www.banditbham.com/): A French-inspired bakery and coffee shop in downtown Birmingham, Bandit Pâtisserie offers a variety of pastries, coffee drinks, and light bites in a charming setting.
 
 #### Breweries
 
@@ -83,15 +86,14 @@ Discover some of the city's best restaurants, coffee shops, and breweries.
 - [**Monday Night Social Club**](https://mondaynightbrewing.com/birmingham/): The Birmingham location of this Atlanta-based brewery, Monday Night Social Club offers their popular IPAs and stouts in a fun, social environment.
 - [**Hop City Craft Beer & Wine**](https://hopcitybeer.com/birmingham/): A specialty store for craft beer and wine enthusiasts, Hop City offers a large selection of local and international beers, as well as a variety of wines and homebrew supplies.
 
-
 ### Transportation
 
 Birmingham has several transportation options to help you get around the city:
+
 - [**Birmingham-Shuttlesworth International Airport (BHM)**](https://www.flybirmingham.com/): The primary airport serving the Birmingham area.
 - [**Public Transit**](https://www.maxtransit.org/): Birmingham offers bus services through the Birmingham-Jefferson County Transit Authority (BJCTA).
 - [**Rideshare**](https://www.uber.com/cities/birmingham/): Popular services like Uber and Lyft are available.
 - [**Birmingham On-Demand Transit**](https://city.ridewithvia.com/birmingham): A new on-demand transit service that allows you to book rides through an app.
-
 
 ### Weather and Climate
 
