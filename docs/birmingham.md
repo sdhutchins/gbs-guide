@@ -52,17 +52,14 @@ Discover some of the city's best restaurants, coffee shops, and breweries.
 
 #### Restaurants
 
-- [**El Barrio**](https://www.elbarriobirmingham.com/): A vibrant Mexican restaurant known for its fresh, modern take on traditional Mexican fare.
 - [**Bottega**](https://www.bottegarestaurant.com/): An upscale Italian restaurant offering a mix of classic and contemporary dishes.
 - [**The Essential**](https://www.essentialbham.com/): A chic spot for brunch, with an emphasis on fresh, local ingredients.
 - [**Makarios Kabob and Grill**](https://makarioskabobandgrill.com/): Serving up Middle Eastern cuisine, Makarios is a long-standing favorite for fresh kabobs, shawarma, and falafel.
 - [**Falafel Cafe**](https://falafelcafebham.com/): A go-to spot for Mediterranean dishes, Falafel Cafe offers authentic falafel, hummus, and gyro plates in a relaxed setting.
-- [**Surin West**](http://www.surinbirmingham.com/): A popular spot for Thai cuisine, Surin West has been a Birmingham favorite for years, known for its fresh sushi and flavorful curries.
 - [**The Pancake House**](https://www.originalpancakehouse.com/): Located in Homewood & Five Points, The Original Pancake House has been serving classic breakfast dishes for decades, known for its large portions and family-friendly atmosphere.
 - [**Hero Doughnuts & Buns**](https://www.herodoughnutsandbuns.com/): Originally a pop-up, Hero Doughnuts now has several locations, offering fresh-made doughnuts and savory buns in a casual setting.
-- [**Bawarchi Indian Cuisine**](https://bawarchial.com/): A popular spot for Indian food, Bawarchi offers a wide range of traditional dishes, from biryanis to curries, in a cozy, welcoming space.
+- [**Bawarchi Indian Cuisine**](https://bawarchibirmingham.com/): A popular spot for Indian food, Bawarchi offers a wide range of traditional dishes, from biryanis to curries, in a cozy, welcoming space.
 - [**Great Wall Chinese Restaurant**](https://www.greatwallbirmingham.com/): A long-standing favorite for Chinese cuisine, Great Wall offers a variety of dishes, from General Tso's chicken to lo mein, in a casual setting.
-- [**Taziki's Mediterranean Cafe**](https://www.tazikiscafe.com/): A fast-casual chain with a location in Birmingham, Taziki's offers fresh Mediterranean dishes like gyros, salads, and hummus plates.
 - [**Jim 'N Nick's Bar-B-Q**](https://www.jimnnicks.com/): A Southern barbecue chain with a location in Birmingham, Jim 'N Nick's is known for its slow-smoked meats, homemade sides, and sweet tea.
 - [**Big Bad Breakfast**](https://www.bigbadbreakfast.com/): A beloved breakfast/brunch spot offering hearty Southern-inspired dishes, from biscuits and gravy to classic omelets and pancakes.
 
@@ -71,8 +68,8 @@ Discover some of the city's best restaurants, coffee shops, and breweries.
 - [**The Red Cat Coffeehouse**](https://theredcatcoffeehouse.com/): A popular spot in Pepper Place and Railroad Park, The Red Cat offers a variety of coffee drinks, teas, and light bites in a comfortable, eclectic space.
 - [**FILTER-Coffee Parlor**](https://filtercoffeebham.com/): A local favorite in Five Points South, FILTER offers single-origin coffee and a variety of teas in a cozy, welcoming space.
 - [**O'Henry's Coffee**](https://ohenryscoffees.com/): A Birmingham staple with multiple locations, O'Henry's offers a range of coffee drinks, teas, and pastries in a relaxed setting.
-- [**Frothy Monkey**](https://frothymonkey.com/): A Nashville-based coffee shop with a location in Birmingham, Frothy Monkey serves up coffee, breakfast, and lunch items in a cozy, modern space.
 - [**June Coffee**](https://www.junecoffeeco.com/): Located downtown, June Coffee offers a variety of coffee drinks, teas, and pastries in a sleek, minimalist setting.
+- [**Bandido Coffee Parlor**](https://bandidobham.com/): Located in 5 points. The coffee is great, and the decor is nice. They also offer pastries.
 - [**Santos Coffee**](https://santoscoffee.com/): A local coffee shop in downtown Birmingham, Santos Coffee offers a variety of coffee drinks, teas, and light bites in a cozy, welcoming space.
 - [**Bandit Pâtisserie**](https://banditpatisserie.com/): A French-inspired bakery and coffee shop in downtown Birmingham, Bandit Pâtisserie offers a variety of pastries, coffee drinks, and light bites in a charming setting.
 
@@ -82,8 +79,7 @@ Discover some of the city's best restaurants, coffee shops, and breweries.
 - [**TrimTab Brewing Company**](https://www.trimtabbrewing.com/): Known for its creative small-batch brews and unique flavor profiles, TrimTab is a favorite for those looking to try something new.
 - [**Cahaba Brewing Company**](https://cahababrewing.com/): With a large taproom and a wide range of beers, Cahaba Brewing is perfect for gatherings. Their American Blonde Ale and Oka Uba IPA are among the local favorites.
 - [**Avondale Brewing Company**](https://avondalebrewing.com/): Located in the trendy Avondale district, this brewery offers a laid-back atmosphere with a large outdoor space. It's great for watching football and other sports and often has concerts.
-- [**Back Forty Beer Company - Birmingham**](https://www.backfortybeer.com/): Originally from Gadsden, Back Forty opened a Birmingham location with a full-service restaurant. It has the best burger in Birmingham.
-- [**Birmingham District Brewing Company**](https://birminghambrewery.com/): Located in The Battery development, Birmingham District focuses on small-batch, high-quality craft beers like their seasonal IPAs and Saisons.
+- [**Back Forty Beer Company - Birmingham**](https://www.backfortybeer.com/): Originally from Gadsden, Back Forty opened a Birmingham location with a full-service restaurant. It has arguably the best burger in Birmingham.
 - [**Monday Night Social Club**](https://mondaynightbrewing.com/birmingham/): The Birmingham location of this Atlanta-based brewery, Monday Night Social Club offers their popular IPAs and stouts in a fun, social environment.
 - [**Hop City Craft Beer & Wine**](https://hopcitybeer.com/birmingham/): A specialty store for craft beer and wine enthusiasts, Hop City offers a large selection of local and international beers, as well as a variety of wines and homebrew supplies.
 
@@ -94,7 +90,7 @@ Birmingham has several transportation options to help you get around the city:
 - [**Birmingham-Shuttlesworth International Airport (BHM)**](https://www.flybirmingham.com/): The primary airport serving the Birmingham area.
 - [**Public Transit**](https://www.maxtransit.org/): Birmingham offers bus services through the Birmingham-Jefferson County Transit Authority (BJCTA).
 - [**Rideshare**](https://www.uber.com/cities/birmingham/): Popular services like Uber and Lyft are available.
-- [**Birmingham On-Demand Transit**](https://www.bjcta.org/birmingham-on-demand/): A new on-demand transit service that allows you to book rides through an app.
+- [**Birmingham On-Demand Transit**](https://city.ridewithvia.com/birmingham): A new on-demand transit service that allows you to book rides through an app.
 
 
 ### Weather and Climate
