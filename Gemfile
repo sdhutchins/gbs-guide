@@ -4,5 +4,6 @@
 gem "just-the-docs"
 gem "jekyll-github-metadata"
 gem "jekyll-sitemap"
+gem "jekyll-include-cache"
 
 source 'https://rubygems.org'

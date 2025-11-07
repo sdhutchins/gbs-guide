@@ -211,7 +211,7 @@ incremental: true
 
 # Optimize for GitHub Pages
 lsi: false
-safe: true
+safe: false
 destination: ./_site
 keep_files: [.git, .svn]
 encoding: "utf-8"
