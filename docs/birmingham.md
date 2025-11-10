@@ -69,9 +69,9 @@ Discover some of the city's best restaurants, coffee shops, and breweries.
 #### Coffee Shops
 
 - [**The Red Cat Coffeehouse**](https://theredcatcoffeehouse.com/): A popular spot in Pepper Place and Railroad Park, The Red Cat offers a variety of coffee drinks, teas, and light bites in a comfortable, eclectic space.
-- [**FILTER-Coffee Parlor**](https://filtercoffeebham.com/): A local favorite in Five Points South, FILTER offers single-origin coffee and a variety of teas in a cozy, welcoming space.
+- [**FILTER-Coffee Parlor**](https://www.filtercoffeeparlor.com/): A local favorite in Five Points South, FILTER offers single-origin coffee and a variety of teas in a cozy, welcoming space.
 - [**O'Henry's Coffee**](https://ohenryscoffees.com/): A Birmingham staple with multiple locations, O'Henry's offers a range of coffee drinks, teas, and pastries in a relaxed setting.
-- [**June Coffee**](https://www.junecoffeeco.com/): Located downtown, June Coffee offers a variety of coffee drinks, teas, and pastries in a sleek, minimalist setting.
+- [**June Coffee**](https://www.junecoffee.co): Located downtown, June Coffee offers a variety of coffee drinks, teas, and pastries in a sleek, minimalist setting.
 - [**Bandido Coffee Parlor**](https://bandidobham.com/): Located in 5 points. The coffee is great, and the decor is nice. They also offer pastries.
 - [**Santos Coffee**](https://linktr.ee/SantosCoffee): A local coffee shop in downtown Birmingham, Santos Coffee offers a variety of coffee drinks, teas, and light bites in a cozy, welcoming space.
 - [**Bandit Pâtisserie**](https://www.banditbham.com/): A French-inspired bakery and coffee shop in downtown Birmingham, Bandit Pâtisserie offers a variety of pastries, coffee drinks, and light bites in a charming setting.
@@ -83,7 +83,7 @@ Discover some of the city's best restaurants, coffee shops, and breweries.
 - [**Cahaba Brewing Company**](https://cahababrewing.com/): With a large taproom and a wide range of beers, Cahaba Brewing is perfect for gatherings. Their American Blonde Ale and Oka Uba IPA are among the local favorites.
 - [**Avondale Brewing Company**](https://avondalebrewing.com/): Located in the trendy Avondale district, this brewery offers a laid-back atmosphere with a large outdoor space. It's great for watching football and other sports and often has concerts.
 - [**Back Forty Beer Company - Birmingham**](https://www.backfortybeer.com/): Originally from Gadsden, Back Forty opened a Birmingham location with a full-service restaurant. It has arguably the best burger in Birmingham.
-- [**Monday Night Social Club**](https://mondaynightbrewing.com/birmingham/): The Birmingham location of this Atlanta-based brewery, Monday Night Social Club offers their popular IPAs and stouts in a fun, social environment.
+- [**Monday Night Social Club**](https://mondaynightbrewing.com/location/social-club/): The Birmingham location of this Atlanta-based brewery, Monday Night Social Club offers their popular IPAs and stouts in a fun, social environment.
 - [**Hop City Craft Beer & Wine**](https://hopcitybeer.com/birmingham/): A specialty store for craft beer and wine enthusiasts, Hop City offers a large selection of local and international beers, as well as a variety of wines and homebrew supplies.
 
 ### Transportation
