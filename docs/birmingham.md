@@ -92,7 +92,7 @@ Birmingham has several transportation options to help you get around the city:
 
 - [**Birmingham-Shuttlesworth International Airport (BHM)**](https://www.flybirmingham.com/): The primary airport serving the Birmingham area.
 - [**Public Transit**](https://www.maxtransit.org/): Birmingham offers bus services through the Birmingham-Jefferson County Transit Authority (BJCTA).
-- [**Rideshare**](https://www.uber.com/cities/birmingham/): Popular services like Uber and Lyft are available.
+- [**Rideshare**](https://www.uber.com/global/en/r/cities/birmingham-al-us/): Popular services like Uber and Lyft are available.
 - [**Birmingham On-Demand Transit**](https://city.ridewithvia.com/birmingham): A new on-demand transit service that allows you to book rides through an app.
 
 ### Weather and Climate
