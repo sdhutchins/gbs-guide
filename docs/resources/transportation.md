@@ -13,7 +13,7 @@ nav_order: 6
 
 A free shuttle service that operates around UAB's campus, connecting various academic buildings, medical facilities, parking areas, and other key locations. It runs multiple routes throughout the day, making it easy to navigate the campus without a car.
 
-[Website](https://www.uab.edu/facilities/transportation/blazer-express){: .btn .btn-primary .fs-3 .mb-4 .mb-md-0 .mr-2 }
+[Website](https://www.uab.edu/transportation/blazer-express){: .btn .btn-primary .fs-3 .mb-4 .mb-md-0 .mr-2 }
 
 ## Blazer Express Safety Escort
 
@@ -34,6 +34,6 @@ Birmingham offers additional transportation options to enhance mobility around c
 
 - **Veo Scooters**: Electric scooters are available for rent on campus through Veo, offering a convenient and quick way to navigate UAB and the surrounding area. Users are encouraged to practice safety, including wearing helmets and following traffic rules, to ensure a secure riding experience.
 
-[Website](https://www.veoride.com/veo-scooter/){: .btn .btn-primary .fs-3 .mb-4 .mb-md-0 .mr-2 }
+[Website](https://www.veoride.com/){: .btn .btn-primary .fs-3 .mb-4 .mb-md-0 .mr-2 }
 
 - **Walking & Biking**: UAB's pedestrian-friendly campus encourages walking and biking, with designated pathways and bike racks available throughout the area. Practicing safety, such as using designated crosswalks and staying aware of traffic, is important.

@@ -23,7 +23,7 @@ First semester courses can be very difficult. There is a lot of content, and as 
 
 ## 1st Semester Courses
 
-These are the core courses (as of fall 2024) you will take in your first semester. 
+These are the core courses (as of fall 2025) you will take in your first semester. 
 
 Refer to the [coursework website](https://www.uab.edu/gbs/home/requirements/coursework) for more details.
 
@@ -43,22 +43,17 @@ They are designed to build a solid foundation in key scientific areas.
 
 ## Academic Readiness
 
-To make sure you're prepared for the coursework:
+To prepare for coursework and succeed:
 
 - Review course syllabi carefully to understand expectations and grading criteria.
 - Reach out to second-year or senior GBS students for study tips.
-- Seek out study resources like the course textbooks or online materials/tutorials.
-- Be prepared to utilize tutoring services (contact the GBS office) if you find yourself struggling.
+- Form study groups to collaborate with classmates, clarify difficult concepts, and build relationships.
+- Review lecture notes dail. Small, consistent reviews are more effective than last-minute cramming.
+- Take breaks during study sessions to avoid burnout and maintain focus.
+- Seek out study resources like course textbooks, online materials/tutorials, or study apps like Anki or [Quizlet](https://quizlet.com/).
+- Utilize GBS tutoring services (contact the GBS office) if you find yourself struggling.
+- Set a consistent study routine and stay organized with a planner or digital calendar.
 - If you suspect you may need accommodations, contact the UAB Disability Support Services.
-
-## Study Tips
-
-Here are some strategies to help you succeed in your coursework:
-
-- **Form Study Groups**: Collaborating with classmates can provide diverse perspectives and help clarify difficult concepts. It will also help you build relationships.
-- **Utilize GBS Tutors**: Don’t hesitate to ask questions or seek guidance from GBS tutors.
-- **Review Lecture Notes Daily**: Regularly go over your notes to reinforce what you've learned. Small, consistent reviews are more effective than last-minute cramming.
-- **Take Breaks**: Include short breaks in your study sessions to avoid burnout and keep your focus sharp.
 
 ## Academic Integrity
 
@@ -79,21 +74,11 @@ Here are a few examples of what constitutes cheating and how to avoid it:
 {: .disclaimer }
 These are not the only examples of academic misconduct. Refer to UAB's academic integrity policy or the program director.
 
-## More Resources for Success
+## Resources and Support
 
-Make the most of the resources available to you:
+Make the most of available resources:
 
-- **Library Access**: Use [Lister Hill Library](https://library.uab.edu/locations/lister-hill) (open to 11 PM Mon-Thurs) or [Mervyn H. Sterne Library](https://library.uab.edu/locations/sterne) (24 hours Mon-Thurs) for access to study spaces.
-- **Study Apps**: Consider apps like Anki or [Quizlet](https://quizlet.com/) for effective flashcard-based learning.
+- **Library Access**: Use [Lister Hill Library](https://library.uab.edu/locations/lister-hill) (open to 11 PM Mon-Thurs) or [Mervyn H. Sterne Library](https://library.uab.edu/locations/sterne) (24 hours Mon-Thurs) for study spaces.
 - **Mental Health Support**: Remember that academic pressure can be intense; reach out to counseling services if needed.
 
-## Building Good Habits
-
-Developing effective study habits early on can make a significant difference:
-
-- **Set a Routine**: Consistency is key. Create a study schedule and stick to it. Study a little bit every day.
-- **Stay Organized**: Keep track of assignments, deadlines, and important dates with a planner or digital calendar.
-
-## Conclusion
-
-Remember that the first semester is a time of adjustment. Give yourself the grace to make mistakes and learn from them. You’re not alone in this process—lean on your peers, faculty, and the resources provided to help you succeed.
+Remember that the first semester is a time of adjustment. Give yourself the grace to make mistakes and learn from them. You're not alone in this process—lean on your peers, faculty, and the resources provided to help you succeed.

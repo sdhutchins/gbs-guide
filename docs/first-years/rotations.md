@@ -23,9 +23,10 @@ A few tips on how to find a good rotation mentor:
 
 - Select a PI to rotate with who can either help you gain skills that will help you in another lab or a PI who has explicitly stated they are taking on more students and have the funding to do so.
 - Always ask students in later years (2nd years and upwards) about the reputation of the PI.
-- If there are more negative than positive reviews of the PI, it is likely best to AVOID.
+- If there are more negative than positive reviews of the PI, it is likely best to **AVOID**.
     - Labs that have toxic cultures very rarely suddenly change or change because of a new student.
-- Use [UAB Scholars](https://scholars.uab.edu/) to search for faculty members and their research interests. You can also find out students they mentor, have mentored, or serve on the committee of via the "Teaching & Mentoring" tab.
+- Use [UAB Scholars](https://scholars.uab.edu/) to search for faculty members and their research interests. You can also find out students they mentor, have mentored, or serve on the committee of via the **"Teaching & Mentoring"** tab.
+    - Also, check out the [UAB Facultry Committee Memberships](https://www.shauritahutchins.com/parse-uab-scholars/) site.
 
 ## Engaging in Rotations
 

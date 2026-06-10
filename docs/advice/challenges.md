@@ -10,7 +10,6 @@ nav_order: 1
 {: .no_toc }
 
 Below are a list of challenges (and solutions) that are common to face during your PhD as organized by the below article[^1].
-
 {: .fs-5 .fw-300 }
 
 ## Isolation and Loneliness
@@ -35,11 +34,11 @@ Develop prioritization skills, organize tasks, and manage time effectively to av
 
 ## Work/Life Balance
 
-Solution: Allocate time for hobbies, social activities, and personal well-being to maintain a balanced life alongside the demands of a PhD program.
+Allocate time for hobbies, social activities, and personal well-being to maintain a balanced life alongside the demands of a PhD program.
 
 ## Lack of Institutional Support
 
-Solution: Explore available institutional resources, graduate school support, and mentorship programs to address gaps in institutional assistance.
+Explore available institutional resources, graduate school support, and mentorship programs to address gaps in institutional assistance.
 
 ## Lack of Personal Support
 
@@ -51,7 +50,7 @@ Begin job hunting early, leverage transferable skills gained during the PhD, and
 
 ## Problems with Motivation
 
-Solution: Take occasional breaks to gain fresh perspectives, recognize achievements, and rekindle motivation to overcome common motivation slumps.
+Take occasional breaks to gain fresh perspectives, recognize achievements, and rekindle motivation to overcome common motivation slumps.
 
 ---
 
